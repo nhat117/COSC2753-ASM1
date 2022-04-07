@@ -1,1 +1,27 @@
-# COSC2753-ASM1
+RMIT University
+# COSC2753 - Machine Learning
+Student Name: Bui Minh Nhat
+Student id: s3878174
+
+
+This is the first assignment of COSC2753.
+
+To run this notebook, you need to install the following packages:
+
++ `scikit-learn`
++ `pandas`
++ `numpy`
++ `seaborn`
++ `autocorrect`
++ `graphviz`
+
+Folder Structure:
+
+``` 
+    COSC2753-ASM1
+        |--README.md
+        |--Data
+        |    |---Paitients_Files_Test.csv
+        |    |---Paitients_Files_Train.csv
+        |---sepsis_prediction.ipynb
+```
