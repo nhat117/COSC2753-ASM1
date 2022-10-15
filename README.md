@@ -6,6 +6,8 @@ Student id: s3878174
 
 This is the first assignment of COSC2753.
 
+This assignemnt is Sepsis prediction using the sepsis dataset: 
+
 To run this notebook, you need to install the following packages:
 
 + `scikit-learn`
