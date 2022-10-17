@@ -31,8 +31,8 @@ The dataset can only be used for the purpose of this assignment. Sharing or dist
 
 ### Missing Attribute Values: Yes
 
-RMIT University
-# COSC2753 - Machine Learning
+
+# COSC2753 - Machine Learning - RMIT University
 Student Name: Bui Minh Nhat
 Student id: s3878174
 
