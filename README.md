@@ -34,5 +34,6 @@ The dataset can only be used for the purpose of this assignment. Sharing or dist
 
 # COSC2753 - Machine Learning - RMIT University
 Student Name: Bui Minh Nhat
+<br>
 Student id: s3878174
 
